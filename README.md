@@ -1,6 +1,6 @@
-### Hi there.
+Hi there.
 <img align="right" alt="banner" width="220" hight="100" src="https://i.pinimg.com/originals/70/0a/db/700adb620aa20f74458693992810d182.jpg" />
-##### I'm a QA Automation in Mexico. Currently, I'm working for Wizeline, Also enjoy coding for fun and making personal project.
+I'm a Sdet in Mexico. Currently, I'm working for luxoft, Also enjoy coding for fun and making personal project.
 <p>
 :bulb: Currently focus on:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Data testing<br>
@@ -16,6 +16,7 @@
 | ------------- | ------------- |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalido&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalido&theme=radical&hide_border=true"/>  |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalido&langs_count_private=true&theme=radical)  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="anime" width="380" hight="100" src="https://i.pinimg.com/originals/cc/44/f4/cc44f41fee8c129ab6e864e4fa0d66ba.jpg" />  |
+
 <br>
 ##### Contact Me :
 ###### If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game videogames together just ping me 😉.
